@@ -1,0 +1,175 @@
+Cycle:1
+Total Cells:99
+Red Blood Cells:68
+White Blood Cells:26
+Tumorous Cells:5
+Current Cell NanoVirus Is on:Red Blood
+
+Cycle:2
+Total Cells:98
+Red Blood Cells:67
+White Blood Cells:26
+Tumorous Cells:5
+Current Cell NanoVirus Is on:Red Blood
+
+Cycle:3
+Total Cells:97
+Red Blood Cells:66
+White Blood Cells:26
+Tumorous Cells:5
+Current Cell NanoVirus Is on:White Blood
+
+Cycle:4
+Total Cells:96
+Red Blood Cells:66
+White Blood Cells:25
+Tumorous Cells:5
+Current Cell NanoVirus Is on:Red Blood
+
+Cycle:5
+Total Cells:95
+Red Blood Cells:60
+White Blood Cells:25
+Tumorous Cells:10
+Current Cell NanoVirus Is on:Red Blood
+
+Cycle:6
+Total Cells:95
+Red Blood Cells:60
+White Blood Cells:25
+Tumorous Cells:10
+Current Cell NanoVirus Is on:Red Blood
+
+Cycle:7
+Total Cells:94
+Red Blood Cells:59
+White Blood Cells:25
+Tumorous Cells:10
+Current Cell NanoVirus Is on:White Blood
+
+Cycle:8
+Total Cells:93
+Red Blood Cells:59
+White Blood Cells:24
+Tumorous Cells:10
+Current Cell NanoVirus Is on:Red Blood
+
+Cycle:9
+Total Cells:92
+Red Blood Cells:58
+White Blood Cells:24
+Tumorous Cells:10
+Current Cell NanoVirus Is on:Red Blood
+
+Cycle:10
+Total Cells:91
+Red Blood Cells:47
+White Blood Cells:24
+Tumorous Cells:20
+Current Cell NanoVirus Is on:Red Blood
+
+Cycle:11
+Total Cells:90
+Red Blood Cells:46
+White Blood Cells:24
+Tumorous Cells:20
+Current Cell NanoVirus Is on:Tumorous
+
+Cycle:12
+Total Cells:89
+Red Blood Cells:46
+White Blood Cells:24
+Tumorous Cells:19
+Current Cell NanoVirus Is on:Tumorous
+
+Cycle:13
+Total Cells:88
+Red Blood Cells:46
+White Blood Cells:24
+Tumorous Cells:18
+Current Cell NanoVirus Is on:Red Blood
+
+Cycle:14
+Total Cells:87
+Red Blood Cells:45
+White Blood Cells:24
+Tumorous Cells:18
+Current Cell NanoVirus Is on:Red Blood
+
+Cycle:15
+Total Cells:86
+Red Blood Cells:26
+White Blood Cells:24
+Tumorous Cells:36
+Current Cell NanoVirus Is on:Tumorous
+
+Cycle:16
+Total Cells:85
+Red Blood Cells:26
+White Blood Cells:24
+Tumorous Cells:35
+Current Cell NanoVirus Is on:Red Blood
+
+Cycle:17
+Total Cells:84
+Red Blood Cells:25
+White Blood Cells:24
+Tumorous Cells:35
+Current Cell NanoVirus Is on:White Blood
+
+Cycle:18
+Total Cells:83
+Red Blood Cells:25
+White Blood Cells:23
+Tumorous Cells:35
+Current Cell NanoVirus Is on:Tumorous
+
+Cycle:19
+Total Cells:82
+Red Blood Cells:25
+White Blood Cells:23
+Tumorous Cells:34
+Current Cell NanoVirus Is on:White Blood
+
+Cycle:20
+Total Cells:81
+Red Blood Cells:0
+White Blood Cells:13
+Tumorous Cells:68
+Current Cell NanoVirus Is on:White Blood
+
+Cycle:21
+Total Cells:81
+Red Blood Cells:0
+White Blood Cells:13
+Tumorous Cells:68
+Current Cell NanoVirus Is on:Tumorous
+
+Cycle:22
+Total Cells:80
+Red Blood Cells:0
+White Blood Cells:13
+Tumorous Cells:67
+Current Cell NanoVirus Is on:Tumorous
+
+Cycle:23
+Total Cells:79
+Red Blood Cells:0
+White Blood Cells:13
+Tumorous Cells:66
+Current Cell NanoVirus Is on:Tumorous
+
+Cycle:24
+Total Cells:78
+Red Blood Cells:0
+White Blood Cells:13
+Tumorous Cells:65
+Current Cell NanoVirus Is on:Tumorous
+
+Cycle:25
+Total Cells:77
+Red Blood Cells:0
+White Blood Cells:0
+Tumorous Cells:77
+Current Cell NanoVirus Is on:Tumorous
+

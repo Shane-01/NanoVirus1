@@ -1,0 +1,6 @@
+C:\Users\smlod\Desktop\NanoVirus\NanoVirus\bin\Debug\NanoVirus.exe.config
+C:\Users\smlod\Desktop\NanoVirus\NanoVirus\bin\Debug\NanoVirus.exe
+C:\Users\smlod\Desktop\NanoVirus\NanoVirus\bin\Debug\NanoVirus.pdb
+C:\Users\smlod\Desktop\NanoVirus\NanoVirus\obj\Debug\NanoVirus.exe
+C:\Users\smlod\Desktop\NanoVirus\NanoVirus\obj\Debug\NanoVirus.pdb
+C:\Users\smlod\Desktop\NanoVirus\NanoVirus\obj\Debug\NanoVirus.csprojResolveAssemblyReference.cache
